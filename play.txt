@@ -1,2 +1,3 @@
 Scene 1 PERSON_ONE: Hey PERSON_TWO,what are you up to?
 PERSON_TWO: Learning how to learn today, the hard way.
+PERSON_THREE: It's indeed the hardway. I feel like this is hard.
